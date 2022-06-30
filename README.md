@@ -5,6 +5,6 @@
 <img src="./assets/images/Screen Shot 2022-06-29 at 8.04.36 PM.png">
 
 ## Created using:
--HTML
--CSS
--Javascript
+- HTML
+- CSS
+- Javascript
