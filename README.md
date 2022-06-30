@@ -4,6 +4,8 @@
 
 <img src="./assets/images/Screen Shot 2022-06-29 at 8.04.36 PM.png">
 
+https://ehalimi.github.io/work-day-scheduler/
+
 ## Created using:
 - HTML
 - CSS
